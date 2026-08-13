@@ -10,9 +10,9 @@ Este repositório reúne **todos os exercícios, projetos e aprendizados** do me
 - **Próximos passos**: Módulos avançados de POO, banco de dados etc.
 
 ## 🛠 Tecnologias e Ferramentas
-- **Linguagem principal**: Java
-- **IDE**: IntelliJ IDEA
-- **Controle de versão**: Git + GitHub
+- **Linguagem principal**: Java;
+- **IDE**: IntelliJ IDEA;
+- **Controle de versão**: Git + GitHub;
 
 ## 📁 Estrutura do Repositório
 ```bash
@@ -33,4 +33,4 @@ SENAI/
 **Qualquer dúvida ou sugestão, é só abrir uma Issue!**
 
 ---
-*Última atualização: Julho 2026*
+*Última atualização: agosto 2026*

@@ -50,4 +50,35 @@ public class Produto {
         produtosAutomatico("Café Torrado", 25, 14.90);
     }
 
+    public ArrayList<Integer> getCdProduto() {
+        return cdProduto;
+    }
+
+    public void setCdProduto(ArrayList<Integer> cdProduto) {
+        this.cdProduto = cdProduto;
+    }
+
+    public ArrayList<String> getNmProduto() {
+        return nmProduto;
+    }
+
+    public void setNmProduto(ArrayList<String> nmProduto) {
+        this.nmProduto = nmProduto;
+    }
+
+    public ArrayList<Integer> getQtProduto() {
+        return qtProduto;
+    }
+
+    public void setQtProduto(ArrayList<Integer> qtProduto) {
+        this.qtProduto = qtProduto;
+    }
+
+    public ArrayList<Double> getVlProduto() {
+        return vlProduto;
+    }
+
+    public void setVlProduto(ArrayList<Double> vlProduto) {
+        this.vlProduto = vlProduto;
+    }
 }
